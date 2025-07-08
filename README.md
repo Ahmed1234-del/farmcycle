@@ -20,10 +20,10 @@ MySQL – For storing user information, product listings, and transactions secur
 Add, edit, and delete farm products
 User-friendly interface for buyers and sellers
 
-![image](https://github.com/user-attachments/assets/f07532ce-3d1e-4bbe-9e50-97c0cead69d9)
+
 ![image](https://github.com/user-attachments/assets/ac60aab5-f78c-4bc1-8f7b-31216d8b7006)
 ![image](https://github.com/user-attachments/assets/4afbf2c7-da15-4fd3-9abd-0b9701603b2c)
-![image](https://github.com/user-attachments/assets/de741449-b793-4684-919b-a4651a52ea53)
+![image](https://github.com/user-attachments/assets/f07532ce-3d1e-4bbe-9e50-97c0cead69d9)
 
 
 
